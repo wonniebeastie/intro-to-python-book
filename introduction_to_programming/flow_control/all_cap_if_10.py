@@ -4,4 +4,4 @@ def all_cap_if_long(string):
     else:
         return string
     
-print(all_cap_if_long('nug'))
+print(all_cap_if_long('i loike it quiet'))
