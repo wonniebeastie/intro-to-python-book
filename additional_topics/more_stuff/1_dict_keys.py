@@ -16,7 +16,8 @@ print(do_something(my_dict))  # CHRIS
 
 
 """
-This function takes a single parameter, named `dictionary`. 
+This function has a single parameter called `dictionary` - meaning it takes 
+only one argument.
 
 It calls the .keys() method on it, which creates a dictionary view object with
 just the keys:
